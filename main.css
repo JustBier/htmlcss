@@ -1,0 +1,124 @@
+body{
+  background: #3E576D;
+color: #A47F17;
+}
+
+header{
+  height: auto;
+  width: 340px;
+  background-color: blue;
+  color: white;
+}
+
+#par1{
+  background: RGB(110,111,112);
+  color: black;
+}
+
+table, td, th{
+  border: 1px solid;
+  color: black;
+}
+
+#head1{
+  background-color: green;
+}
+#head2{
+  background-image: url(afbeeldingen/1111.png);
+background-repeat: no-repeat;
+width: 70px;
+height: 40px;
+}
+#head3{
+  background-color: blue;
+}
+#head4{
+  background-image: url(afbeeldingen/1111.png);
+background-repeat: no-repeat;
+width: 70px;
+height: 40px;
+}
+
+#cel11{
+  background-color: yellow;
+}
+#cel21{
+  background-image: url(afbeeldingen/1111.png);
+background-repeat: no-repeat;
+width: 70px;
+height: 40px;
+}
+#cel31{
+  background-color: black;
+  color: white;
+}
+#cel41{
+  background-image: url(afbeeldingen/1111.png);
+background-repeat: no-repeat;
+width: 70px;
+height: 40px;
+}
+
+#cel12{
+  background-color: aqua;
+}
+#cel22{
+  background-image: url(afbeeldingen/1111.png);
+background-repeat: no-repeat;
+width: 70px;
+height: 40px;
+}
+#cel32{
+  background-color: teal;
+}
+#cel42{
+  background-image: url(afbeeldingen/1111.png);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 40px;
+}
+
+#cel13{
+  background-color: lime;
+}
+#cel23{
+  background-image: url(afbeeldingen/1111.png);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 40px;
+}
+#cel33{
+  background-color: pink;
+}
+#cel43{
+  background-image: url(afbeeldingen/1111.png);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 40px;
+}
+
+#cel14{
+  background-color: red;
+}
+#cel24{
+  background-image: url(afbeeldingen/1111.png);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 40px;
+}
+#cel34{
+  background-color: grey;
+}
+#cel44{
+  background-image: url(afbeeldingen/1111.png);
+  background-repeat: no-repeat;
+  width: 70px;
+  height: 40px;
+}
+
+footer{
+  height: auto;
+  width: 200px;
+  background: #6E613F;
+  color: pink;
+}
